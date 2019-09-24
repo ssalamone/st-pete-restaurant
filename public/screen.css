@@ -1,9 +1,29 @@
 :root {
-  font: 16px / 1 sans-serif;
+  font: 16px;
+  font-family:helvetica;
+  color: #aaa;
+}
+nav {
+  text-align: right;
+  background-color: #aaa;
+}
+.mainheader {
+  font-size: 72px;
+  color: #76281c	;
+  text-align: center;
+}
+
+img {
+  height: 500px;
+  width: 100%;
+  border: 13px solid 76281c	;
+  margin: 20px;
+  padding: 20px;
 }
 
 html {
   height: 100%;
+  background-color: #5f7487;
 }
 
 body {
